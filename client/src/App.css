@@ -1,0 +1,22 @@
+@media screen and (max-width:768px){
+  ul,li{
+    display: flex;
+    align-self: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+  .card{
+    width: 70%;
+  }
+}
+.list{
+  background-color: blanchedalmond;
+  width: 100%;
+}
+.card{
+  border: none;
+}
+input{
+  border-radius: 1rem;
+  border: none; 
+}
