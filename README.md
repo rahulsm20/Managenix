@@ -1,4 +1,4 @@
-# Managenix
+# Managenix :office:
 #### Designed on Figma
 #### Built using 
   * Frontend
